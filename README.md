@@ -22,7 +22,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/everpeak_analysis.ipynb`
+1. Abre `notebooks/everpeak.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
